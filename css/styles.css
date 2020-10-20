@@ -1,0 +1,11 @@
+.text-closed1, .text-closed2, .text-closed3 {
+  display: none;
+}
+
+
+.card {
+  color: blue;
+  background-color: rgb(158, 158, 158);
+  margin-top: 1in;
+  width: 4in;
+}
